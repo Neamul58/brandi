@@ -1,0 +1,100 @@
+@media (min-width: 980px) and (max-width: 1150px) {
+
+    .header-carousel .carousel-content h1 {
+        font-size: 50px;
+    }
+
+    .header-carousel .carousel-content h3 {
+        font-size: 35px;
+    }
+
+    .header-carousel .social-icon {
+        margin-top: 30px !important;
+    }
+    
+    .header-carousel .carousel-content p::before {
+        left: 30%;
+    }
+    
+    .header-carousel .carousel-content p::after {
+        right: 30%;
+    }
+
+
+    .member-thumb {
+        width: 170px !important;
+    }
+
+    .member-thumb img {
+        width: 170px;
+    }
+
+    .member-thumb .overlay {
+        width: 170px;
+    }
+}
+
+
+
+@media (min-width: 768px) and (max-width: 979px) {
+    .header-carousel .carousel-content h1 {
+        font-size: 40px;
+    }
+
+    .header-carousel .carousel-content h3 {
+        font-size: 30px;
+    }
+
+    .header-carousel .social-icon {
+        margin-top: 25px !important;
+    }
+    
+    .header-carousel .carousel-content p::before {
+        left: 25%;
+    }
+    
+    .header-carousel .carousel-content p::after {
+        right: 25%;
+    }
+
+    .member-thumb {
+        width: 170px !important;
+    }
+
+    .member-thumb img {
+        width: 170px;
+    }
+
+    .member-thumb .overlay {
+        width: 170px;
+    }
+}
+
+
+@media only screen and (max-width: 767px) {
+
+    .header-carousel .carousel-content h1 {
+        font-size: 28px;
+    }
+
+    .header-carousel .carousel-content h3 {
+        font-size: 20px;
+    }
+
+    .header-carousel .carousel-content p {
+        font-size: 16px;
+    }
+
+    .header-carousel .social-icon {
+        margin-top: 15px !important;
+    }
+    
+    .header-carousel .carousel-content p::before {
+        left: 25%;
+    }
+    
+    .header-carousel .carousel-content p::after {
+        right: 25%;
+    }
+
+}
